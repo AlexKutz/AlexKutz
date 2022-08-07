@@ -1,1 +1,1 @@
-https://www.codewars.com/users/AlexKutz/badges/small
+[![Profile badge](https://www.codewars.com/users/AlexKutz/badges/small)](https://www.codewars.com/users/AlexKutz)
